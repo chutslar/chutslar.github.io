@@ -3,7 +3,7 @@ layout: post
 title:  "Contextual Popups in Unity"
 date:   '2018-03-15 14:15:00 -0500'
 published: true
-categories: Unity
+categories: unity
 ---
 
 I've been making a detective game in Unity, where the player searches for
