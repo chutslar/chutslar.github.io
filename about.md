@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Senior in Computer Science and Physics at Indiana University Bloomington \| [Resume]({{"assets/resume.pdf" | absolute_url}})
+B.Sc. in Computer Science and Physics from Indiana University Bloomington \| [Resume]({{"assets/resume.pdf" | absolute_url}})
 
 ![Me]({{ "assets/portrait.jpg" | absolute_url}})
 
@@ -12,7 +12,7 @@ Senior in Computer Science and Physics at Indiana University Bloomington \| [Res
 
 <br>
 
-I've done some cool stuff while here, like:
+While earning my degree, I:
 
 - Taught as an AI for A201 (Introduction to Programming) and C335 (Computer Structures)
 - Worked in a lab doing an fMRI study observing heavy smokers doing a variety of tasks for nicotine
